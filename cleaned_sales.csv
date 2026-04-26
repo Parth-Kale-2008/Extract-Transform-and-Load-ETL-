@@ -1,0 +1,2 @@
+date,order_id,product,quantity,price,city,total
+2026-04-01,ORD1001,Laptop,1.0,55000.0,Mumbai,55000.0

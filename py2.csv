@@ -1,0 +1,16 @@
+Transaction_ID,Product_Brand,Logistics_Partner,Destination,Quantity,Unit_Price_USD,Order_Date
+TXN001,Silent Glow Vodka,Export Wala,UK,150,25.5,2026-04-10
+TXN002,Night Champ,Export Wala,USA,200,18.0,11/04/2026
+TXN003,My Time,Global Transit,canada,50,30.0,2026-04-12
+TXN004,Silent Glow Vodka,Export Wala,UK,120,25.5,2026-04-13
+TXN005,night champ,Export Wala,usa,300,18.0,2026-04-14
+txn_006,My Time,FastFreight,Germany,80,30.0,2026/04/15
+TXN007,Silent Glow Vodka,Export Wala,France,400,25.5,2026-04-16
+TXN008,Night Champ,,UK,150,18.0,17-04-2026
+TXN009,,Export Wala,USA,90,25.5,2026-04-18
+TXN010,My Time,Global Transit,Canada,60,30.0,2026-04-19
+TXN011,Silent Glow Vodka,Export Wala,UK,250,25.5,2026-04-20
+TXN011,Silent Glow Vodka,Export Wala,UK,250,25.5,2026-04-20
+TXN013,Night Champ,FastFreight,Germany,-10,18.0,2026-04-22
+TXN014,My Time,Export Wala,FRANCE,100,30.0,2026-04-23
+TXN015,Silent Glow Vodka,Export Wala,USA,500,25.5,2026-04-24
